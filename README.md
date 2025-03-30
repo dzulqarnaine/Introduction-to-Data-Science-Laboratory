@@ -1,2 +1,1 @@
-Reporsitori ini adalah materi pembelajaran pada laboratorium kelas pengantara sains data di departemen Statistika universitas Syiah Kuala pada tahun ajar Ganjil 2024. Repositori ini adalah untuk memudahkan praktikan dalam mengakses materi pembelajaran
-
+This repository is learning material in the data science intermediate class laboratory in the Statistics department of Syiah Kuala university in the Odd 2024 academic year. This repository exists to facilitate practitioners in accessing learning materials.
